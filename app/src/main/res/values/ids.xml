@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="drawer_item_text" type="id"/>
+    <item name="drawer_item_icon" type="id"/>
+    <item name="drawer_sub_header_text" type="id"/>
+    <item name="name" type="id"/>
+    <item name="mail" type="id"/>
+
+    <item name="drawer_item" type="id"/>
+    <item name="drawer_header" type="id"/>
+    <item name="drawer_sub_header" type="id"/>
+    <item name="drawer_space" type="id"/>
+    <item name="drawer_space_half_top" type="id"/>
+    <item name="drawer_space_half_bottom" type="id"/>
+
+    <item name="item" type="id"/>
+    <item name="details" type="id"/>
+
+    <item name="item_text" type="id"/>
+    <item name="details_text" type="id"/>
+
+</resources>

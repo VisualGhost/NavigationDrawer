@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="drawer_item_types">
+        <item>@id/drawer_header</item>
+        <item>@id/drawer_space_half_top</item>
+        <item>@id/drawer_item</item>
+        <item>@id/drawer_space</item>
+        <item>@id/drawer_item</item>
+        <item>@id/drawer_item</item>
+        <item>@id/drawer_item</item>
+        <item>@id/drawer_item</item>
+        <item>@id/drawer_item</item>
+        <item>@id/drawer_item</item>
+        <item>@id/drawer_space_half_bottom</item>
+        <item>@id/drawer_sub_header</item>
+        <item>@id/drawer_item</item>
+        <item>@id/drawer_item</item>
+        <item>@id/drawer_item</item>
+        <item>@id/drawer_space</item>
+        <item>@id/drawer_item</item>
+        <item>@id/drawer_item</item>
+    </array>
+    <array name="drawer_items">
+        <item>@string/inbox</item>
+        <item>@string/starred</item>
+        <item>@string/sent_mail</item>
+        <item>@string/drafts</item>
+        <item>@string/all_mail</item>
+        <item>@string/trash</item>
+        <item>@string/spam</item>
+        <item>@string/primary</item>
+        <item>@string/social</item>
+        <item>@string/promotions</item>
+        <item>@string/settings</item>
+        <item>@string/help_feedback</item>
+    </array>
+    <array name="drawer_subheaders">
+        <item>@string/subheader</item>
+    </array>
+    <array name="drawer_icons">
+        <item>@drawable/selector_move</item>
+        <item>@drawable/selector_start</item>
+        <item>@drawable/selector_send</item>
+        <item>@drawable/selector_drafts</item>
+        <item>@drawable/selector_mail</item>
+        <item>@drawable/selector_delete</item>
+        <item>@drawable/selector_report</item>
+        <item>@drawable/selector_primary</item>
+        <item>@drawable/selector_people</item>
+        <item>@drawable/selector_promotions</item>
+        <item>@drawable/selector_settings</item>
+        <item>@drawable/selector_help</item>
+    </array>
+</resources>

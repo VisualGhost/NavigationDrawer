@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="MaterialTheme" parent="AppTheme">
+        <!-- color of status bar -->
+        <!--<item name="android:windowDrawsSystemBarBackgrounds">true</item>
+        <item name="android:statusBarColor">@color/header_background_status_bar</item>-->
+
+        <!--status bar under all-->
+        <!--http://stackoverflow.com/a/29283413-->
+        <!--<item name="android:windowTranslucentStatus">true</item>-->
+    </style>
+</resources>

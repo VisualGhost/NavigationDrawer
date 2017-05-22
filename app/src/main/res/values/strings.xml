@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">MyNavigationDrawer</string>
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+    <string name="font_fontFamily_medium">sans-serif</string>
+    <string name="inbox">Inbox</string>
+    <string name="starred">Starred</string>
+    <string name="sent_mail">Sent Mail</string>
+    <string name="drafts">Drafts</string>
+    <string name="all_mail">All mail</string>
+    <string name="trash">Trash</string>
+    <string name="spam">Spam</string>
+    <string name="primary">Primary</string>
+    <string name="social">Social</string>
+    <string name="promotions">Promotions</string>
+    <string name="settings">Settings</string>
+    <string name="help_feedback">Help &amp; feedback</string>
+    <string name="subheader">Recent labels</string>
+</resources>
